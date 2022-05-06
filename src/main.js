@@ -37,10 +37,3 @@ function discPrice(timeToEDT, price) {
 finalPrice = discPrice(timeToEDT_1, item1.price);
 
 console.log("finalPrice is ", finalPrice);
-
-/*
-var d2 = new Date();
-d2
-*/
-
-
